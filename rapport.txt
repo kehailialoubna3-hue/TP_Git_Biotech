@@ -1,1 +1,2 @@
 TP Biotechnologie - Git utile pour versions et collaboration.
+Mon projet: biofertilisant PGPR.
